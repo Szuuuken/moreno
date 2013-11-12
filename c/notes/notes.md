@@ -267,7 +267,7 @@ den Begrenzungen ignoriert. */
 #include <math.h>
 ```
 
-Damit nicht jeder Programmierer das Rad neu erfinden muss gibt es viele bereits vordefinierte Funktionen und Konstanten in sogenannten *Libaries*. Diese werden über *includes* zum Programm hinzugefügt. Diese includes schreibt man ganz zu beginn eines Files hin und diese gelten auch nur innerhalb dieses Files.
+Damit nicht jeder Programmierer das Rad neu erfinden muss gibt es viele bereits vordefinierte Funktionen und Konstanten in sogenannten **Libaries**. Diese werden über **includes** zum Programm hinzugefügt. Diese includes schreibt man ganz zu beginn eines Files hin und diese gelten auch nur innerhalb dieses Files.
 
 ##makros
 ```
