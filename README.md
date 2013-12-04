@@ -7,7 +7,7 @@ Unter der Adresse http://mac.github.com kannst du dir ein Programm herunterladen
 Ich weiß, dass ich **viele** eigentlich sogar **sehr viele** Rechtschreibfehler und Tippfehler mache. Du darfst sie gerne ausbessern ;P.
 
 ##Strucktur
-Es wird für jede Sprache die durchgehen werden einen eigenen Ordner geben. In diesen Ordnern findest du die Unterordner **notes**,**sandbox** und **übungen**.
+Es wird für jede Sprache die wir durchgehen werden einen eigenen Ordner geben. In diesen Ordnern findest du die Unterordner **notes**,**sandbox** und **übungen**.
 
 ###notes
 Hier findest du Infos zu allen möglichen Dingen von denen ich glaub, dass sie dir helfen können.
